@@ -17,9 +17,9 @@ import {
     LevinPacket,
     Transaction,
     KeyPair,
-    TurtleCoind,
+    CuddleCoind,
     WalletAPI,
-    LegacyTurtleCoind,
+    LegacyCuddleCoind,
     WalletAPITypes
 } from '../src';
 import * as assert from 'assert';
@@ -2002,12 +2002,12 @@ describe('Test Ledger Integration', async function () {
     });
 });
 
-describe('TurtleCoind < 1.0.0', function () {
+describe('CuddleCoind < 1.0.0', function () {
     this.timeout(60000);
 
     let is_explorer = false;
 
-    const server = new LegacyTurtleCoind('seed.turtlenode.io');
+    const server = new LegacyCuddleCoind('seed.turtlenode.io');
 
     before('check()', async function () {
         try {
@@ -2252,12 +2252,12 @@ describe('TurtleCoind < 1.0.0', function () {
     });
 });
 
-describe('TurtleCoind >= 1.0.0', function () {
+describe('CuddleCoind >= 1.0.0', function () {
     this.timeout(60000);
 
     let is_explorer = false;
 
-    const server = new TurtleCoind('localhost');
+    const server = new CuddleCoind('localhost');
 
     before('check()', async function () {
         try {

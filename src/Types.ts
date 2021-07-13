@@ -41,9 +41,9 @@ export * from './Types/Ledger';
 
 export * from './Types/WalletAPI';
 
-export * from './Types/LegacyTurtleCoind';
+export * from './Types/LegacyCuddleCoind';
 
-export * from './Types/TurtleCoind';
+export * from './Types/CuddleCoind';
 
 export { PortableStorage, StorageType } from './Types/PortableStorage';
 

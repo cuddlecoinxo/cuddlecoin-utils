@@ -1,5 +1,5 @@
 {
-    "name": "TurtleCoin-Utils",
+    "name": "CuddleCoin-Utils",
     "out": "./docs",
     "excludeExternals": true,
     "excludeNotExported": true,

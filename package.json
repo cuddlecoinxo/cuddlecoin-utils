@@ -28,11 +28,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/turtlecoin/turtlecoin-utils.git"
+    "url": "git+https://github.com/cuddlecoinxo/cuddlecoin-utils.git"
   },
   "homepage": "https://utils.turtlecoin.dev",
   "bugs": {
-    "url": "https://github.com/turtlecoin/turtlecoin-utils/issues"
+    "url": "https://github.com/cuddlecoinxo/cuddlecoin-utils/issues"
   },
   "author": "Brandon Lehmann <brandonlehmann@gmail.com>",
   "contributors": [
