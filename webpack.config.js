@@ -1,15 +1,15 @@
-'use strict';
+'use strict'
 
 module.exports = {
-    mode: 'production',
-    entry: './dist/index.js',
-    output: {
-        filename: 'CuddleCoinUtils.js',
-        library: 'CuddleCoinUtils',
-        libraryTarget: 'umd'
-    },
-    node: {
-        fs: 'empty'
-    },
-    target: 'web'
-};
+  mode: 'production',
+  entry: './index.js',
+  output: {
+    filename: 'TurtleCoinUtils.js',
+    library: 'TurtleCoinUtils',
+    libraryTarget: 'umd'
+  },
+  node: {
+    fs: 'empty'
+  },
+  target: 'web'
+}
