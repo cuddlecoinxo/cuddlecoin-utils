@@ -1,16 +1,4 @@
-![image](https://user-images.githubusercontent.com/34389545/35821974-62e0e25c-0a70-11e8-87dd-2cfffeb6ed47.png)
-
 # CuddleCoin Utilities
-
-[![NPM](https://nodeico.herokuapp.com/cuddlecoin-utils.svg)](https://npmjs.com/package/cuddlecoin-utils)
-
-![Prerequisite](https://img.shields.io/badge/node-%3E%3D10-blue.svg) [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://utils.turtlecoin.dev) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/cuddlecoinxo/cuddlecoin-utils/graphs/commit-activity) [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-yellow.svg)](https://github.com/cuddlecoinxo/cuddlecoin-utils/blob/master/LICENSE) [![Twitter: TurtlePay](https://img.shields.io/twitter/follow/_CuddleCoin.svg?style=social)](https://twitter.com/_CuddleCoin)
-
-#### Master Build Status
-[![Build Status](https://github.com/cuddlecoinxo/cuddlecoin-utils/workflows/CI%20Build%20Tests/badge.svg?branch=master)](https://github.com/cuddlecoinxo/cuddlecoin-utils/actions)
-
-#### Development Build Status
-[![Build Status](https://github.com/cuddlecoinxo/cuddlecoin-utils/workflows/CI%20Build%20Tests/badge.svg?branch=development)](https://github.com/cuddlecoinxo/cuddlecoin-utils/actions)
 
 ## Overview
 This package contains a number of different utility libraries that help with the following network and wallet based activities:
